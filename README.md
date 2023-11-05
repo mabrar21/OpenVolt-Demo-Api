@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Some TODO improvements
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* Add react error boundaries
+* Add tests
+* Improve error handling logic
+* Encrypt secrets
 
 ## Available Scripts
 
