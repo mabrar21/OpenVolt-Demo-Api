@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OpenVolt-Demo-Api/static/css/main.f855e6bc.css",
+    "main.js": "/OpenVolt-Demo-Api/static/js/main.85cb6a08.js",
+    "static/js/787.fa34180d.chunk.js": "/OpenVolt-Demo-Api/static/js/787.fa34180d.chunk.js",
+    "index.html": "/OpenVolt-Demo-Api/index.html",
+    "main.f855e6bc.css.map": "/OpenVolt-Demo-Api/static/css/main.f855e6bc.css.map",
+    "main.85cb6a08.js.map": "/OpenVolt-Demo-Api/static/js/main.85cb6a08.js.map",
+    "787.fa34180d.chunk.js.map": "/OpenVolt-Demo-Api/static/js/787.fa34180d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.85cb6a08.js"
+  ]
+}
